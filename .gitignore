@@ -1,0 +1,5 @@
+# Ignore files
+
+*.class
+*.jar
+*.war

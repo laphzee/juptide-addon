@@ -1,3 +1,3 @@
 # Juptide Addon
 
-This project is a Minecraft addon.
+This is a README for the Juptide addon.
